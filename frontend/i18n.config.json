@@ -1,0 +1,6 @@
+{
+  "locales": ["es", "en"],
+  "fallback": "es",
+  "canonical": "es",
+  "content": "Database JSON fields use {es,en}. Interface keys in public/locales."
+}

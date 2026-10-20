@@ -1,0 +1,4 @@
+-r requirements.txt
+pypdf==6.21.1
+pymupdf==2.0
+black==26.10.1

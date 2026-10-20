@@ -1,0 +1,485 @@
+{
+  "profile": {
+    "full_name": "Ivonne Falleau",
+    "headline": {
+      "es": "Full Stack Developer & AI Engineer",
+      "en": "Full Stack Developer & AI Engineer"
+    },
+    "summary": {
+      "es": "Desarrollo aplicaciones web con Python, React e inteligencia artificial. Conecto necesidades de negocio con soluciones seguras, claras y pensadas para las personas.",
+      "en": "I build web applications with Python, React and artificial intelligence. I connect business needs with secure, clear solutions designed for people."
+    },
+    "availability": {
+      "es": "Disponible para roles remotos y proyectos freelance",
+      "en": "Open to remote roles and freelance projects"
+    },
+    "location": "Chaco, Argentina",
+    "timezone": "America/Argentina/Buenos_Aires (UTC-3)",
+    "email": "ivonnefalleau@gmail.com",
+    "phone": "+54 362 4084901",
+    "linkedin_url": "https://www.linkedin.com/in/ivonnefalleau/",
+    "github_url": "https://github.com/F4lleau",
+    "languages": [
+      {
+        "name": {
+          "es": "Español",
+          "en": "Spanish"
+        },
+        "level": "Nativo"
+      },
+      {
+        "name": {
+          "es": "Inglés",
+          "en": "English"
+        },
+        "level": "B1"
+      }
+    ],
+    "experience": [
+      {
+        "company": "BDO ARG · Proyecto IA",
+        "period": "2025 - Actualidad",
+        "role": {
+          "es": "Desarrolladora Full Stack",
+          "en": "Full Stack Developer"
+        },
+        "description": {
+          "es": "Desarrollo de plataforma corporativa multi-tenant con IA generativa, RAG y sistema multiagente. Interfaces React/TypeScript; backend Django y PostgreSQL. Integración de LLM con LiteLLM, procesamiento documental, roles y permisos por tenant, WebSockets y automatizaciones con Celery. Integración con SharePoint, OneDrive y Google Drive. Aplicación de prácticas de seguridad basadas en OWASP.",
+          "en": "Development of a multi-tenant corporate platform with generative AI, RAG and multi-agent workflows. React/TypeScript interfaces; Django and PostgreSQL backend. LLM integration with LiteLLM, document processing, tenant roles and permissions, WebSockets and Celery automation. SharePoint, OneDrive and Google Drive integrations. OWASP-based security practices."
+        },
+        "stack": [
+          "Python",
+          "Django",
+          "React",
+          "TypeScript",
+          "PostgreSQL",
+          "RAG"
+        ]
+      },
+      {
+        "company": "Freelance",
+        "period": "2024 - Actualidad",
+        "role": {
+          "es": "Desarrolladora Full Stack",
+          "en": "Full Stack Developer"
+        },
+        "description": {
+          "es": "Desarrollo de eCommerce con Node.js, Express y MongoDB. Autenticación con JWT y Passport.js, mensajería en tiempo real, integración de pagos y despliegue con Docker y NGINX. Frontend Next.js con TypeScript, Tailwind y Redux Toolkit. API documentada con Swagger.",
+          "en": "eCommerce development using Node.js, Express and MongoDB. JWT and Passport.js authentication, real-time messaging, payment integration and deployment with Docker and NGINX. Next.js frontend with TypeScript, Tailwind and Redux Toolkit. API documented with Swagger."
+        },
+        "stack": [
+          "Node.js",
+          "Express",
+          "MongoDB",
+          "Next.js",
+          "TypeScript",
+          "Docker"
+        ]
+      },
+      {
+        "company": "Veza SRL",
+        "period": "2024 - 2025",
+        "role": {
+          "es": "Desarrolladora Full Stack",
+          "en": "Full Stack Developer"
+        },
+        "description": {
+          "es": "Diseño y desarrollo de un menú digital con panel administrativo multitenant para gestionar múltiples locales. Backend FastAPI y PostgreSQL; frontend React, Vite, Redux y Tailwind. Autenticación JWT, roles y permisos, estados persistentes e integración de Mercado Pago. Refactorización, optimización de APIs y colaboración en el rediseño UI.",
+          "en": "Designed and developed a digital menu with a multi-tenant admin panel for multiple locations. FastAPI and PostgreSQL backend; React, Vite, Redux and Tailwind frontend. JWT authentication, roles and permissions, persistent state and Mercado Pago integration. Refactoring, API optimization and UI redesign collaboration."
+        },
+        "stack": [
+          "Python",
+          "FastAPI",
+          "PostgreSQL",
+          "React",
+          "Redux",
+          "Tailwind CSS"
+        ]
+      },
+      {
+        "company": "ECOM CHACO S.A.",
+        "period": "2022 - 2025",
+        "role": {
+          "es": "Desarrolladora Full Stack",
+          "en": "Full Stack Developer"
+        },
+        "description": {
+          "es": "Desarrollo de una aplicación web para un organismo provincial con Python y PostgreSQL. Autenticación JWT, pruebas con pytest, integración de servicios REST y microservicios. Frontend TypeScript, React y Tailwind con Redux Persist. Módulos de usuarios, roles y permisos, mensajería, archivos y derivación de trámites.",
+          "en": "Developed a web application for a provincial organization using Python and PostgreSQL. JWT authentication, pytest tests, REST integrations and microservices. TypeScript, React and Tailwind frontend with Redux Persist. User management, roles and permissions, messaging, files and procedure routing modules."
+        },
+        "stack": [
+          "Python",
+          "PostgreSQL",
+          "React",
+          "TypeScript",
+          "pytest",
+          "JWT"
+        ]
+      }
+    ],
+    "education": [
+      {
+        "school": "UTN",
+        "title": {
+          "es": "Tecnicatura Universitaria en Programación",
+          "en": "University Degree in Programming"
+        },
+        "period": "2024 - Actualidad",
+        "status": {
+          "es": "En curso",
+          "en": "In progress"
+        }
+      },
+      {
+        "school": "CODERHOUSE",
+        "title": {
+          "es": "Software Developer · Frontend y Backend I, II, III",
+          "en": "Software Developer · Frontend and Backend I, II, III"
+        },
+        "period": "2023 - 2024",
+        "status": {
+          "es": "Finalizado",
+          "en": "Completed"
+        }
+      },
+      {
+        "school": "UNSTA",
+        "title": {
+          "es": "Diplomatura en Desarrollo Seguro de Aplicaciones",
+          "en": "Diploma in Secure Application Development"
+        },
+        "period": "2024 - 2026",
+        "status": {
+          "es": "Estado a confirmar",
+          "en": "Status to confirm"
+        }
+      },
+      {
+        "school": "APX SCHOOL",
+        "title": {
+          "es": "Desarrollo Full Stack con JavaScript y TypeScript",
+          "en": "Full Stack Development with JavaScript and TypeScript"
+        },
+        "period": "2024 - Actualidad",
+        "status": {
+          "es": "En curso",
+          "en": "In progress"
+        }
+      }
+    ],
+    "skills": [
+      {
+        "name": {
+          "es": "Backend",
+          "en": "Backend"
+        },
+        "items": [
+          "Python",
+          "Django",
+          "FastAPI",
+          "Flask",
+          "Node.js",
+          "Express",
+          "SQLAlchemy",
+          "SQLModel",
+          "Prisma",
+          "APIs REST",
+          "WebSockets"
+        ]
+      },
+      {
+        "name": {
+          "es": "Frontend",
+          "en": "Frontend"
+        },
+        "items": [
+          "React",
+          "Next.js",
+          "TypeScript",
+          "Vite",
+          "Redux Toolkit",
+          "Redux Persist",
+          "Zustand",
+          "TanStack Query",
+          "Tailwind CSS",
+          "shadcn/ui",
+          "Zod"
+        ]
+      },
+      {
+        "name": {
+          "es": "Datos",
+          "en": "Data"
+        },
+        "items": [
+          "PostgreSQL",
+          "SQL Server",
+          "MySQL",
+          "MongoDB",
+          "SQLite",
+          "Redis"
+        ]
+      },
+      {
+        "name": {
+          "es": "IA e integraciones",
+          "en": "AI and integrations"
+        },
+        "items": [
+          "RAG",
+          "Embeddings",
+          "LiteLLM",
+          "Microsoft Graph",
+          "SharePoint",
+          "OAuth 2.0",
+          "MSAL"
+        ]
+      },
+      {
+        "name": {
+          "es": "Seguridad y testing",
+          "en": "Security and testing"
+        },
+        "items": [
+          "OWASP",
+          "JWT",
+          "CSRF",
+          "HttpOnly cookies",
+          "pytest",
+          "Postman",
+          "Swagger"
+        ]
+      },
+      {
+        "name": {
+          "es": "DevOps y herramientas",
+          "en": "DevOps and tools"
+        },
+        "items": [
+          "Git",
+          "GitHub",
+          "Docker",
+          "NGINX",
+          "Scrum"
+        ]
+      }
+    ]
+  },
+  "technologies": {
+    "backend": [
+      "Python",
+      "Django",
+      "Django REST Framework",
+      "FastAPI",
+      "Flask",
+      "Node.js",
+      "Express",
+      "SQLAlchemy",
+      "SQLModel",
+      "Prisma",
+      "Celery",
+      "Passport.js"
+    ],
+    "frontend": [
+      "JavaScript",
+      "TypeScript",
+      "React",
+      "Next.js",
+      "Vite",
+      "Tailwind CSS",
+      "Redux Toolkit",
+      "Redux Persist",
+      "Zustand",
+      "TanStack Query",
+      "Zod",
+      "shadcn/ui"
+    ],
+    "database": [
+      "PostgreSQL",
+      "MongoDB",
+      "MySQL",
+      "SQL Server",
+      "SQLite",
+      "Redis"
+    ],
+    "ai": [
+      "RAG",
+      "Embeddings",
+      "LiteLLM"
+    ],
+    "devops": [
+      "Docker",
+      "NGINX",
+      "GitHub Actions",
+      "Git"
+    ],
+    "tooling": [
+      "pytest",
+      "Postman",
+      "Swagger",
+      "JWT"
+    ]
+  },
+  "projects": [
+    {
+      "slug": "plataforma-ia",
+      "title": {
+        "es": "Plataforma corporativa con IA",
+        "en": "Corporate AI platform"
+      },
+      "summary": {
+        "es": "IA generativa y documentos en una plataforma multi-tenant.",
+        "en": "Generative AI and documents in a multi-tenant platform."
+      },
+      "description": {
+        "es": "Desarrollo de plataforma corporativa multi-tenant con IA generativa, RAG y sistema multiagente. Interfaces React/TypeScript; backend Django y PostgreSQL. Integración de LLM con LiteLLM, procesamiento documental, roles y permisos por tenant, WebSockets y automatizaciones con Celery. Integración con SharePoint, OneDrive y Google Drive. Aplicación de prácticas de seguridad basadas en OWASP.",
+        "en": "Development of a multi-tenant corporate platform with generative AI, RAG and multi-agent workflows. React/TypeScript interfaces; Django and PostgreSQL backend. LLM integration with LiteLLM, document processing, tenant roles and permissions, WebSockets and Celery automation. SharePoint, OneDrive and Google Drive integrations. OWASP-based security practices."
+      },
+      "role": {
+        "es": "Desarrolladora Full Stack",
+        "en": "Full Stack Developer"
+      },
+      "decisions": {
+        "es": "Caso resumido desde el CV. Completar decisiones técnicas y enlaces autorizados antes de publicar.",
+        "en": "Case summarized from the résumé. Complete technical decisions and authorized links before publishing."
+      },
+      "result": {
+        "es": "IA generativa y documentos en una plataforma multi-tenant.",
+        "en": "Generative AI and documents in a multi-tenant platform."
+      },
+      "year": 2025,
+      "category": "ai",
+      "featured": true,
+      "published": false,
+      "sort_order": 0,
+      "stack": [
+        "Python",
+        "Django",
+        "React",
+        "TypeScript",
+        "PostgreSQL",
+        "RAG"
+      ]
+    },
+    {
+      "slug": "ecommerce",
+      "title": {
+        "es": "eCommerce full stack",
+        "en": "Full stack eCommerce"
+      },
+      "summary": {
+        "es": "Compras, pagos y mensajería en una aplicación web.",
+        "en": "Shopping, payments and messaging in a web application."
+      },
+      "description": {
+        "es": "Desarrollo de eCommerce con Node.js, Express y MongoDB. Autenticación con JWT y Passport.js, mensajería en tiempo real, integración de pagos y despliegue con Docker y NGINX. Frontend Next.js con TypeScript, Tailwind y Redux Toolkit. API documentada con Swagger.",
+        "en": "eCommerce development using Node.js, Express and MongoDB. JWT and Passport.js authentication, real-time messaging, payment integration and deployment with Docker and NGINX. Next.js frontend with TypeScript, Tailwind and Redux Toolkit. API documented with Swagger."
+      },
+      "role": {
+        "es": "Desarrolladora Full Stack",
+        "en": "Full Stack Developer"
+      },
+      "decisions": {
+        "es": "Caso resumido desde el CV. Completar decisiones técnicas y enlaces autorizados antes de publicar.",
+        "en": "Case summarized from the résumé. Complete technical decisions and authorized links before publishing."
+      },
+      "result": {
+        "es": "Compras, pagos y mensajería en una aplicación web.",
+        "en": "Shopping, payments and messaging in a web application."
+      },
+      "year": 2024,
+      "category": "fullstack",
+      "featured": true,
+      "published": false,
+      "sort_order": 1,
+      "stack": [
+        "Node.js",
+        "Express",
+        "MongoDB",
+        "Next.js",
+        "TypeScript",
+        "Docker"
+      ]
+    },
+    {
+      "slug": "menu-multitenant",
+      "title": {
+        "es": "Menú digital multitenant",
+        "en": "Multi-tenant digital menu"
+      },
+      "summary": {
+        "es": "Administración de múltiples locales desde una plataforma.",
+        "en": "Manage multiple locations from one platform."
+      },
+      "description": {
+        "es": "Diseño y desarrollo de un menú digital con panel administrativo multitenant para gestionar múltiples locales. Backend FastAPI y PostgreSQL; frontend React, Vite, Redux y Tailwind. Autenticación JWT, roles y permisos, estados persistentes e integración de Mercado Pago. Refactorización, optimización de APIs y colaboración en el rediseño UI.",
+        "en": "Designed and developed a digital menu with a multi-tenant admin panel for multiple locations. FastAPI and PostgreSQL backend; React, Vite, Redux and Tailwind frontend. JWT authentication, roles and permissions, persistent state and Mercado Pago integration. Refactoring, API optimization and UI redesign collaboration."
+      },
+      "role": {
+        "es": "Desarrolladora Full Stack",
+        "en": "Full Stack Developer"
+      },
+      "decisions": {
+        "es": "Caso resumido desde el CV. Completar decisiones técnicas y enlaces autorizados antes de publicar.",
+        "en": "Case summarized from the résumé. Complete technical decisions and authorized links before publishing."
+      },
+      "result": {
+        "es": "Administración de múltiples locales desde una plataforma.",
+        "en": "Manage multiple locations from one platform."
+      },
+      "year": 2024,
+      "category": "fullstack",
+      "featured": true,
+      "published": false,
+      "sort_order": 2,
+      "stack": [
+        "Python",
+        "FastAPI",
+        "PostgreSQL",
+        "React",
+        "Redux",
+        "Tailwind CSS"
+      ]
+    },
+    {
+      "slug": "gestion-tramites",
+      "title": {
+        "es": "Gestión de trámites y usuarios",
+        "en": "Procedure and user management"
+      },
+      "summary": {
+        "es": "Módulos conectados para un organismo provincial.",
+        "en": "Connected modules for a provincial organization."
+      },
+      "description": {
+        "es": "Desarrollo de una aplicación web para un organismo provincial con Python y PostgreSQL. Autenticación JWT, pruebas con pytest, integración de servicios REST y microservicios. Frontend TypeScript, React y Tailwind con Redux Persist. Módulos de usuarios, roles y permisos, mensajería, archivos y derivación de trámites.",
+        "en": "Developed a web application for a provincial organization using Python and PostgreSQL. JWT authentication, pytest tests, REST integrations and microservices. TypeScript, React and Tailwind frontend with Redux Persist. User management, roles and permissions, messaging, files and procedure routing modules."
+      },
+      "role": {
+        "es": "Desarrolladora Full Stack",
+        "en": "Full Stack Developer"
+      },
+      "decisions": {
+        "es": "Caso resumido desde el CV. Completar decisiones técnicas y enlaces autorizados antes de publicar.",
+        "en": "Case summarized from the résumé. Complete technical decisions and authorized links before publishing."
+      },
+      "result": {
+        "es": "Módulos conectados para un organismo provincial.",
+        "en": "Connected modules for a provincial organization."
+      },
+      "year": 2022,
+      "category": "fullstack",
+      "featured": false,
+      "published": false,
+      "sort_order": 3,
+      "stack": [
+        "Python",
+        "PostgreSQL",
+        "React",
+        "TypeScript",
+        "pytest",
+        "JWT"
+      ]
+    }
+  ]
+}

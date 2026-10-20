@@ -1,0 +1,21 @@
+services:
+  backend:
+    build: ./backend
+    env_file: ./backend/.env
+    volumes:
+      - portfolio_media:/app/media
+      - portfolio_static:/app/staticfiles
+    restart: unless-stopped
+  frontend:
+    build: ./frontend
+    ports:
+      - "8080:80"
+    depends_on:
+      - backend
+    volumes:
+      - portfolio_media:/media:ro
+      - portfolio_static:/staticfiles:ro
+    restart: unless-stopped
+volumes:
+  portfolio_media:
+  portfolio_static:
